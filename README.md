@@ -16,15 +16,14 @@
             -Ocasião Apropriada;
             -Tamanho
 
-    -Um par de sapato;
+	-Um par de sapato;
 
         É necessário preencher as seguintes caracteristicas:
             -Tipo;
             -Cor;
 
 2.Ver quantas peças de um tipo específico escolhido existem no estoque;
-
-Pode-se ver a quintidade dos seguintes tipos:
+	Pode-se ver a quintidade dos seguintes tipos:
 
 		-Peças de roupas;
 		    .Todas as peças do guarda roupa, de todos os tipos;
@@ -48,9 +47,9 @@ Pode-se ver a quintidade dos seguintes tipos:
 
 4. Gerar um conjunto;
 
-Existem duas maneira de gerar um conjunto:
-    -Escolhendo peça por peça;
-    -De maneira aleatória;
+	Existem duas maneira de gerar um conjunto:
+	    -Escolhendo peça por peça;
+	    -De maneira aleatória;
 
         .Existem 3 tipos de combinações:
             .Parte de baixo e parte de cima;
