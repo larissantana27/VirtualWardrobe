@@ -51,6 +51,7 @@ Pode-se ver a quintidade dos seguintes tipos:
 	Existem duas maneira de gerar um conjunto:
 	    
  	-Escolhendo peça por peça;
+	
  	-De maneira aleatória;
 
         .Existem 3 tipos de combinações:
