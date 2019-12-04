@@ -24,7 +24,7 @@
 
 2.Ver quantas peças de um tipo específico escolhido existem no estoque;
 
-    Pode-se ver a quintidade dos seguintes tipos:
+   Pode-se ver a quintidade dos seguintes tipos:
 
         -Peças de roupas;
             .Todas as peças do guarda roupa, de todos os tipos;
@@ -34,17 +34,17 @@
 
 3. Administrar as suas listas;
 
-    Existem 4 tipos de listas:
-        -Peças favoritas;
-        -Peças que você gostaria de tentar usar mais;
-        -Peças que você deseja adquir;
-        -Peças que precisam de concerto;
+	    Existem 4 tipos de listas:
+		-Peças favoritas;
+		-Peças que você gostaria de tentar usar mais;
+		-Peças que você deseja adquir;
+		-Peças que precisam de concerto;
 
-    Cada uma dessas listas tem 3 funcionalidades:
-        -Adicionar uma peça de roupa;
-        -Ver o estado atual da lista;
-        -Remover uma peça de roupa da lista;
-        (nessa versão as listas aceitam apenas roupas)
+	    Cada uma dessas listas tem 3 funcionalidades:
+		-Adicionar uma peça de roupa;
+		-Ver o estado atual da lista;
+		-Remover uma peça de roupa da lista;
+		(nessa versão as listas aceitam apenas roupas)
 
 4. Gerar um conjunto;
 
