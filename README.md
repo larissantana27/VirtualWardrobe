@@ -49,8 +49,10 @@
 4. Gerar um conjunto;
 
     Existem duas maneira de gerar um conjunto:
-        -Escolhendo peça por peça;
-        -De maneira aleatória;
+    
+-Escolhendo peça por peça;
+
+-De maneira aleatória;
 
         .Existem 3 tipos de combinações:
             .Parte de baixo e parte de cima;
